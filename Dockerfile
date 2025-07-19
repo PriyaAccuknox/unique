@@ -1,5 +1,5 @@
 # Base image
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 # Set working directory
 WORKDIR /app
